@@ -1,8 +1,26 @@
 # 项目名称
 
-[![GitHub](https://img.shields.io/github/license/username/repo)](https://github.com/username/repo/blob/main/LICENSE)
-[![Build Status](https://img.shields.io/travis/username/repo/master)](https://travis-ci.org/username/repo)
-[![Code Coverage](https://img.shields.io/codecov/c/github/username/repo)](https://codecov.io/gh/username/repo)
+<span class="header-badge">
+    <!-- GitHub stars badge -->
+    <a href="https://github.com/UF4OVER/utb_servo_ctrl">
+        <img src="https://img.shields.io/github/stars/UF4OVER/utb_servo_ctrl?style=social" alt="GitHub stars">
+    </a>
+</span>
+
+<br>
+
+<span class="header-title">优必选舵机控制器</span>
+<style>.header-badge {
+    font-size: 20px;
+    color: #6d3535;
+}
+
+.header-title {
+    display: block;
+    font-size: 20px;
+    color: #62ff00d7;
+}
+</style>
 
 ## 目录
 
@@ -29,6 +47,7 @@
 - 特性5：可以点击并发按钮一键发送当前所有舵机的信息
 - 特性6：预设即使关掉软件也会保存，只有再次覆盖才会消失
 - 特性7：可以个性化ui界面
+- ![img.png](pic/img.png)
 
 ## 技术栈
 
