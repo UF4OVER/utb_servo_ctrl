@@ -1,26 +1,9 @@
+
 # 项目名称
-
-<span class="header-badge">
-    <!-- GitHub stars badge -->
-    <a href="https://github.com/UF4OVER/utb_servo_ctrl">
-        <img src="https://img.shields.io/github/stars/UF4OVER/utb_servo_ctrl?style=social" alt="GitHub stars">
-    </a>
-</span>
-
+<span style="font-size: 20px; color: #FF0000;">[![GitHub stars](https://img.shields.io/github/stars/UF4OVER/utb_servo_ctrl?style=social)](https://github.com/UF4OVER/utb_servo_ctrl)</span>
+[![GitHub](https://github.com/UF4OVER/utb_servo_ctrl/pic/icon.png)](https://github.com/UF4OVER/utb_servo_ctrl/blob/master/LICENSE)
 <br>
-
-<span class="header-title">优必选舵机控制器</span>
-<style>.header-badge {
-    font-size: 20px;
-    color: #6d3535;
-}
-
-.header-title {
-    display: block;
-    font-size: 20px;
-    color: #62ff00d7;
-}
-</style>
+<span style="font-size: 20px; color: #FFffff;">优必选舵机控制器</span>
 
 ## 目录
 
