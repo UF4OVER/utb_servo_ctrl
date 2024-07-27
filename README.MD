@@ -50,12 +50,12 @@
 
 1. 克隆仓库：
 <pre>
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/UF4OVER/utb_servo_ctrl
 </pre>
 
 2. 进入项目目录：
 <pre>
-cd yourproject
+cd utb_servo_ctrl/build/exe.win-amd64-3.10
 </pre>
 3. 在此之前，请确保你已经安装了Python和pip，并且安装了必要的库
 <pre>
